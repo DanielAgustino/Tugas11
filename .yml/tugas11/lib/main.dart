@@ -37,7 +37,7 @@ class _HomePageState extends State<HomePage> {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: Text('HTTP Request - Muhammad Daffatama N - 201011401448'),
+          title: Text('HTTP Request - Daniel Agustino - 201011401941'),
         ),
         body: ListView.builder(
           itemCount: dataList.length,
